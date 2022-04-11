@@ -6,7 +6,7 @@ The extension will replace the address property for the real estate page with a 
 
 ## UI
 <img src="/assets/ui.png" alt="user-interface" />
-<p>Add your desired arrival address and travel mode.</p>
+<p>Add your desired destination address and travel mode.</p>
 --- 
 
 ## Result
