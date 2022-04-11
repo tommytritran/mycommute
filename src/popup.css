@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Finntype,Arial,Helvetica,sans-serif;
+}
+
+.container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    padding: 24px 12px 24px 12px;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+label {
+    display:grid;
+    grid-template-columns: 90px 200px;
+}
+
+#submit {
+    width: 70px;
+    color: #fff;
+    background-color: #0063fb;
+    border-color: transparent;
+    border-radius: 8px;
+}

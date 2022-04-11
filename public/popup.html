@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+  <title>MyCommute Settings</title>
+</head>
+<body>
+  <div class="container">
+    <form id="form">
+      <div class="inputContainer">
+          <label for="from">
+            Fra adresse: <input type="text" name="from" id="from" placeholder="Fra adresse">
+          </label>
+         
+          <label for="travelMode">
+            Reise måte: 
+            <select name="travelMode" id="travelMode">
+              <option value="transit">Kollektiv</option>
+              <option value="walking">Gå</option>
+              <option value="bicycling">Sykkel</option>
+              <option value="driving">Bil</option>
+            </select>
+  
+          </label>
+          
+        <input type="submit" value="Lagre" id="submit">
+      </div>
+    </form>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
