@@ -18,7 +18,7 @@ The extension will replace the address property on the real estate page with a G
 
 ## Install
 
-TBA: chrome webstore link
+chrome webstore <a href="https://chrome.google.com/webstore/detail/my-commute/ipfjpfghkgbaalhdgbnjlahakdpfimpl" target="_blank" rel="noopener">link</a>
 
 ## Contribution
 
