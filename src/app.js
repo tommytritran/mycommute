@@ -33,7 +33,9 @@ function createAnchorTag(url, address){
 
   const url = await urlBuilder(address);
 
+  //The first address element under the title
   const atag = createAnchorTag(url, address);
+  //The address element above the finn.no map, at the bottom of the page
   const atag1 = createAnchorTag(url, address);
   atag1.setAttribute("class", "u-mh16");
 
