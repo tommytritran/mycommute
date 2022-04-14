@@ -2,12 +2,13 @@
 
 My-Commute is a chrome extension to enhance your <a href="https://www.finn.no/" target="_blank" rel="noopener">Finn.no</a> experience.
 
-The extension will replace the address property for the real estate page with a Google Maps link. Google Maps will open in a new tab with the property address as departure and a predefined address as destination with your travel mode of choice.
+The extension will replace the address property on the real estate page with a Google Maps link. Google Maps will open in a new tab with the property address as departure, a destination address you can define and travel mode of choice.
 
 ## UI
 
 <img src="/assets/ui.png" alt="user-interface" />
 <p>Add your desired destination address and travel mode.</p>
+
 --- 
 
 ## Result
