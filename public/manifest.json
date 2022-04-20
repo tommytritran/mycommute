@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "My-Commute",
-  "version": "1.0.0",
-  "description": "Adds google Maps link on Finn.no real estate pages.",
+  "name": "Finn.no eiendom - Reisevei",
+  "version": "1.0.1",
+  "description": "Genererer Google Maps lenke for en Finn.no eiendomsanonnse til et predefinert destinasjon og ønsket reisemetode.",
   "permissions": ["storage"],
   "icons": {
     "16": "icons/mycommute_16.png",
@@ -18,6 +18,6 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Finn.no reisetid innstillinger"
+    "default_title": "Finn.no eiendom - Reisevei"
   }
 }
