@@ -9,7 +9,6 @@ The extension will replace the address property on the real estate page with a G
 <img src="/assets/ui.png" alt="user-interface" />
 <p>Add your desired destination address and travel mode.</p>
 
---- 
 
 ## Result
 
